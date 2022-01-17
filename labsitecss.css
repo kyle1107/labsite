@@ -1,0 +1,45 @@
+.grad
+{
+    width: 150px;
+    text-align: center;
+}
+/* 학번 */
+.nama
+{
+width: 80px;
+text-align: center;
+}
+/* 이름 */
+.tele
+{
+    text-align: center;
+    width: 130px;
+}
+/* 전화번호 */
+#headsay
+{
+    text-align: center;
+    color: red;
+}
+/* 머릿말 */
+
+td,th
+{
+    
+    border:1px solid black;
+    border-collapse: collapse;
+    background-color: blanchedalmond;
+}
+/* 표 내부 */
+th{
+    background-color: lightcyan;
+}
+/* 표 머리 */
+table
+{   
+    margin-left: 80px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 700px; height: 200px;
+}
+/* 테이블 */
